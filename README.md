@@ -16,6 +16,7 @@ I enjoy working with a diverse range of technologies and languages, including:
   <img src="https://img.shields.io/badge/C-5E5E5E?style=for-the-badge&logo=c&logoColor=A8B9CC" alt="C">
   <img src="https://img.shields.io/badge/Tailwind%20CSS-5E5E5E?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS">
   <img src="https://img.shields.io/badge/Bootstrap-5E5E5E?style=for-the-badge&logo=bootstrap&logoColor=563D7C" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/REACT-grey?style=for-the-badge&logo=react" alt="Bootstrap">
 </div>
 
 
